@@ -1,6 +1,6 @@
 # CODSOFT
 <br><br><br>
--> Calculator: This is a Basic numarical Problem solver by taking input from User and solved it by match case. 
+-> Calculator: This is a Basic numarical Problem solver by taking input from User and solved it by if-else. 
 <br><br>
 -> Rock-Papper-Scissors game: This popular game is created by using Random module and take the input by user.And Then Ask for Playing Again If "YES" call the game() else asking to give a feed back from the User.
 <br><br>
